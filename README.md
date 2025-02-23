@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Umamah Ali! </h1>
+<h1 align="center"> Hello, I'm Umamah! </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=16D9D7&center=true&vCenter=true&random=false&width=550&lines=Final+Year+BSc+CS+Student;Global+Winner+-+NASA+Space+Apps+Challenge;Passionate+about+Tech+and+Innovation" />
