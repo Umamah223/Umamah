@@ -1,7 +1,7 @@
 <h1 align="center"> I'm Umamah Ali! </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=16D9D7&center=true&vCenter=true&random=false&width=550&lines=Final+Year+BSc+CS+Student;Global+Winner+-+NASA+Space+Apps+Challenge;AI+%7C+Computer+Vision+%7C+Data+Analytics;UAE+Golden+Visa+Holder;Passionate+about+Tech+and+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=16D9D7&center=true&vCenter=true&random=false&width=550&lines=Final+Year+BSc+CS+Student;Global+Winner+-+NASA+Space+Apps+Challenge;Passionate+about+Tech+and+Innovation" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 ### 📫 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/umamah-ali-64743827b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
